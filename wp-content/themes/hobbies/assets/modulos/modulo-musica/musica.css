@@ -1,0 +1,39 @@
+#musica-single-post .background-musica{
+    background-size: cover;
+    height: 150vh;
+    background-repeat: no-repeat;
+}
+#musica-single-post .autor p{
+color: white;
+}
+#musica-single-post .nombre-cancion p{
+    color: white;
+    padding-top: 40px;
+}
+#musica-single-post .nombre-cancion h1{
+    color: white;
+    font-size: 100px;
+    font-weight: 600;
+}
+#musica-single-post .btn-like{
+    height: 70px;
+    width: 70px;
+    padding-top: 25px;
+}
+#musica-single-post .btn-mi{
+    height: 70px;
+    width: 70px;
+    padding-top: 25px;
+}
+#musica-single-post .phoenix{
+    height: 70px;
+    width: 70px;
+    padding-top: 25px;
+}
+#musica-single-post .cancion{
+    height: 500px;
+    width: 300px;
+    padding-top: 30px;
+    
+}
+
